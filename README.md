@@ -1,21 +1,25 @@
 <div align="center">
 
-<h3><code>xCodeWraith@alpha-node ~ $ ./contributions.sh --graph</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="xCodeWraith Live Contribution Heatmap" />
+<h3><code>xCodeWraith@alpha-node ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="xCodeWraith's real contribution graph, rendered as animated SVG and refreshed daily" />
 
 <br><br>
 
 <h3><code>xCodeWraith@alpha-node ~ $ whoami</code></h3>
+
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top"><img src="./dev-ascii.svg" width="370" alt="DEV ASCII Terminal Portrait" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="xCodeWraith Neofetch Card" /></td>
+    <td valign="top"><img src="./dev-ascii.svg" width="420" alt="DEV — ASCII portrait" /></td>
+    <td width="20"></td>
+    <td valign="top"><img src="./stats.svg" width="420" alt="xCodeWraith's streak and contribution stats — auto-refreshed daily" /></td>
   </tr>
 </table>
 
 <br><br>
 
 <h3><code>xCodeWraith@alpha-node ~ $ ./featured_weapons.sh</code></h3>
+
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top">
